@@ -1,0 +1,9 @@
+export {default as PEGI_3} from './PEGI_3.svg';
+export {default as PEGI_4} from './PEGI_4.svg';
+export {default as PEGI_6} from './PEGI_6.svg';
+export {default as PEGI_7} from './PEGI_7.svg';
+export {default as PEGI_11} from './PEGI_11.svg';
+export {default as PEGI_12} from './PEGI_12.svg';
+export {default as PEGI_15} from './PEGI_15.svg';
+export {default as PEGI_16} from './PEGI_16.svg';
+export {default as PEGI_18} from './PEGI_18.svg';

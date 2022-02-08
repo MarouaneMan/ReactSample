@@ -1,0 +1,15 @@
+export {default as lBtA} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_a.png';
+export {default as lBtB} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_b.png';
+export {default as lBtX} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_x.png';
+export {default as lBtY} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_y.png';
+export {default as lBtStart} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_start.png';
+export {default as lBtSelect} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_select.png';
+export {default as lBtL} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_l.png';
+export {default as lBtR} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_r.png';
+export {default as lBtL3} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_l3.png';
+export {default as lBtR3} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_r3.png';
+export {default as lPadD} from 'cgxwebclient/static/images/virtualpad/virtualpad_pad_d.png';
+export {default as lPadL} from 'cgxwebclient/static/images/virtualpad/virtualpad_pad_l.png';
+export {default as lPadR} from 'cgxwebclient/static/images/virtualpad/virtualpad_pad_r.png';
+export {default as lBtRTr} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_rt.png';
+export {default as lBtLTr} from 'cgxwebclient/static/images/virtualpad/virtualpad_bt_lt.png';
